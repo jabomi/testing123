@@ -1,4 +1,4 @@
-
+//program liczacy sume liczb naturalnych mniejszych od n
 int main()
 {
     int n = 5;
